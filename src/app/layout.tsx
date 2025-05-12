@@ -18,18 +18,18 @@ export const metadata: Metadata = {
   title: "Resume AI - Create a Resume that Gets Noticed",
   description: "Create a resume that gets noticed with Resume AI. Our AI-powered resume builder helps you craft a resume that highlights your skills and experience.",
   keywords: "resume builder, resume ai, job search, career development",
-  authors: [{ name: "myjobb", url: "https://myjobb.com" }],
+  authors: [{ name: "Manoj Kumar", url: "https://github.com/iamsidar07" }],
   openGraph: {
     title: "Resume AI - Create a Resume that Gets Noticed",
     description: "Create a resume that gets noticed with Resume AI. Our AI-powered resume builder helps you craft a resume that highlights your skills and experience.",
-    images: ["https://example.com/image.jpg"],
-    url: "https://example.com",
+    images: ["https://myjobresumeai.vercel.app/og.png"],
+    url: "https://myjobresumeai.vercel.app",
   },
   twitter: {
     card: "summary_large_image",
     title: "Resume AI - Create a Resume that Gets Noticed",
     description: "Create a resume that gets noticed with Resume AI. Our AI-powered resume builder helps you craft a resume that highlights your skills and experience.",
-    images: ["https://example.com/image.jpg"],
+    images: ["https://myjobresumeai.vercel.app/og.png"],
   },
 };
 

@@ -1,12 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MyJobResumeAI
+
+Welcome to the [MyJobResumeAi](https://myjobresumeai.vercel.app/)
 
 ## Getting Started
 
-First, run the development server:
+- Clone this project into your local machine
+    ```bash
+    git clone git@github.com:Iamsidar07/myjobresumeai.git 
+    cd myjobresumeai
+    ```
+- Install the dependencies
+    ```bash
+    pnpm install
+    ```
+- To run the development server:
 
-```bash
-pnpm dev
-```
+    ```bash
+    pnpm dev
+    ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
