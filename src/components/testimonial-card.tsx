@@ -22,7 +22,7 @@ export default function TestimonialCard({ quote, author, role, rating }: Testimo
           <Star key={i} className={`h-5 w-5 ${i < rating ? "text-pink-500 fill-pink-500" : "text-gray-700"}`} />
         ))}
       </div>
-      <p className="text-gray-300 mb-6 italic">&ldouq;{quote}&rdquo;</p>
+      <p className="text-gray-300 mb-6 italic">&ldquo;{quote}&rdquo;</p>
       <div className="flex items-center">
         <div className="bg-gradient-to-r from-pink-500 to-purple-600 rounded-full w-12 h-12 flex items-center justify-center mr-4">
           <span className="text-white font-medium">{author.charAt(0)}</span>
